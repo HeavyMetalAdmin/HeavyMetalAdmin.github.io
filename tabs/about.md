@@ -1,11 +1,8 @@
 ---
 title: About
-
-# The About page
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT License
 ---
+## Who am I?
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+I'm Michael, a security analyst, from the USA. Since I decided to have a career change in my mid 30's I have been working in the Information Security realm for 3 years now. Since getting into InfoSec I have graduated from college obtaining my Bachelors degree from Dakota State University ([DSU](https://dsu.edu/)) and have obtained multiple certifications and atteneded training courses throughout the USA.
+
+
