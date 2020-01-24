@@ -1,12 +1,7 @@
 ---
-date: 2019-10-22 10:00:00
 title: Linux(bash) Shell Overview
-categories:
-  - Bash
-  - Linux
-  - Commands
-description: Overview of Bash / Shell Commands.
-type: Document
+date: 2019-10-22 10:00:00
+categories: [Bash,Linux,Commands]
 tags: [Bash,Linux,Commands]
 ---
 

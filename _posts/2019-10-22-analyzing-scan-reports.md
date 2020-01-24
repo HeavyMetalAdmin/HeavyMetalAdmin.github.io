@@ -1,12 +1,7 @@
 ---
-date: 2019-10-22 11:00:00
 title: Analyzing Scan Reports
-categories:
-  - CySA+
-  - CVSS
-  - Vulnerability
-description:
-type: Document
+date: 2019-10-22 11:00:00
+categories: [CySA+,CVSS,Vulnerability]
 tags: [CySA+,CVSS,Vulnerability]
 ---
 

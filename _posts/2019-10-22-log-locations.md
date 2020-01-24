@@ -1,12 +1,7 @@
 ---
-date: 2019-10-22 00:00:00
 title: Log Locations
-categories:
-  - Linux
-  - Logs
-  - Methodology
-description:
-type: Document
+date: 2019-10-22 00:00:00
+categories: [Linux,Logs,Methodology]
 tags: [Linux,Logs,Methodology]
 ---
 

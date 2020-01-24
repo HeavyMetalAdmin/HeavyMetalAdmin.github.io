@@ -1,11 +1,7 @@
 ---
-date: 2019-10-22 22:00:00
 title: Detection Methods
-categories:
-  - AV
-  - Methodology
-description:
-type: Document
+date: 2019-10-22 22:00:00
+categories: [AV,Methodology]
 tags: [AV,Metodology]
 ---
 

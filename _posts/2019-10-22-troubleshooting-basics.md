@@ -1,11 +1,7 @@
 ---
-date: 2019-10-22 00:00:00
 title: Troubleshooting Basics
-categories:
-  - Troubleshooting
-  - Methodology
-description:
-type: Document
+date: 2019-10-22 00:00:00
+categories: [Troubleshooting,Methodology]
 tags: [Troubleshooting, Methodology]
 ---
 

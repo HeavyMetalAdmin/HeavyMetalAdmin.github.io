@@ -1,9 +1,7 @@
 ---
-date: 2019-10-27 00:00:00
 title: PacketWhisper
+date: 2019-10-27 00:00:00
 categories: [PCAP,Data_Exfil,DNS]
-description:
-type: Document
 tags: [PCAP,Data_Exfil,DNS]
 ---
 

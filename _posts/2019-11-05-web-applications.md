@@ -1,9 +1,7 @@
 ---
-date: 2019-11-05 00:00:00
 title: Web Applications
+date: 2019-11-05 00:00:00
 categories: [Web_App, eJPT, HTTP(s)]
-description:
-type: Document
 tags: [eJPT,web_app]
 ---
 
