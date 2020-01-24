@@ -16,21 +16,21 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: 'https://heavymetaladmin.github.io'
 
-author: your_full_name                  # change to your full name
+author: HeavyMetaladmin                # change to your full name
 
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: github_username             # change to your github username
+  username: heavymetaladmin            # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: HeavyMetalAdmin           # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: HeavyMetalAdmin               # it will shows as the copyright owner in Footer
+  email: heavymetal4dm1n@tutanota.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/HeavyMetalAdmin      # change to your twitter homepage
