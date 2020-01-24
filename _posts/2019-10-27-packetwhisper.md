@@ -1,7 +1,7 @@
 ---
 title: PacketWhisper
 date: 2019-10-27 00:00:00
-categories: [Tools]
+categories: [Tools,PacketWhisper]
 tags: [network, data_exfil]
 seo:
   date_modified: 2020-01-24 11:42:35 -0500

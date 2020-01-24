@@ -1,7 +1,7 @@
 ---
 title: Analysis Terminology
 date: 2019-10-24 00:00:00
-categories: [Malware]
+categories: [Malware,Analysis]
 tags: [analysis]
 seo:
   date_modified: 2020-01-24 11:42:35 -0500
