@@ -3,6 +3,8 @@ title: Log Locations
 date: 2019-10-22 00:00:00
 categories: [Logs]
 tags: [linux]
+seo:
+  date_modified: 2020-01-24 11:42:35 -0500
 ---
 
 ## **Linux**

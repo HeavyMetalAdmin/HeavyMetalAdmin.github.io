@@ -2,7 +2,9 @@
 title: Linux(bash) Shell Overview
 date: 2019-10-22 10:00:00
 categories: [Linux]
-tags: [bash,command-line]
+tags: [bash, command-line]
+seo:
+  date_modified: 2020-01-24 11:42:35 -0500
 ---
 
 ### Linux Shell commands & scripting Overview\\Outline

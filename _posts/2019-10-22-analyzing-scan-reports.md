@@ -2,7 +2,9 @@
 title: Analyzing Scan Reports
 date: 2019-10-22 11:00:00
 categories: [Vulnerability Management]
-tags: [cvss,vulnerability_management,cysa+,terminology]
+tags: [cvss, vulnerability_management, cysa+, terminology]
+seo:
+  date_modified: 2020-01-24 11:42:35 -0500
 ---
 
 ## Scan Reports

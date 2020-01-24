@@ -2,7 +2,9 @@
 title: BurpSuite
 date: 2019-12-24 00:00:00
 categories: [Tools]
-tags: [web_app,network]
+tags: [web_app, network]
+seo:
+  date_modified: 2020-01-24 11:42:35 -0500
 ---
 
 ## Tabs
