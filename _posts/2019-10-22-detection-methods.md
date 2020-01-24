@@ -1,8 +1,8 @@
 ---
 title: Detection Methods
 date: 2019-10-22 22:00:00
-categories: [AV,Methodology]
-tags: [AV,Metodology]
+categories: [AV]
+tags: [av_detection,methodology]
 ---
 
 ### Signature-Based Detection

@@ -1,8 +1,8 @@
 ---
 title: Log Locations
 date: 2019-10-22 00:00:00
-categories: [Linux,Logs,Methodology]
-tags: [Linux,Logs,Methodology]
+categories: [Logs]
+tags: [linux]
 ---
 
 ## **Linux**

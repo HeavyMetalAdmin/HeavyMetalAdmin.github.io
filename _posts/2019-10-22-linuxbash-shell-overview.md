@@ -1,8 +1,8 @@
 ---
 title: Linux(bash) Shell Overview
 date: 2019-10-22 10:00:00
-categories: [Bash,Linux,Commands]
-tags: [Bash,Linux,Commands]
+categories: [Linux]
+tags: [bash,command-line]
 ---
 
 ### Linux Shell commands & scripting Overview\\Outline

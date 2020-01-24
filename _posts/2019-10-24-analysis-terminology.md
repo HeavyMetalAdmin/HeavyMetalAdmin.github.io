@@ -1,8 +1,8 @@
 ---
 title: Analysis Terminology
 date: 2019-10-24 00:00:00
-categories: [Analysis, Malware]
-tags: [Analysis,Malware]
+categories: [Malware]
+tags: [analysis]
 ---
 
 ### Packed/Packer:

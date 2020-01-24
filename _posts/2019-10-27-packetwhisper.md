@@ -1,8 +1,8 @@
 ---
 title: PacketWhisper
 date: 2019-10-27 00:00:00
-categories: [PCAP,Data_Exfil,DNS]
-tags: [PCAP,Data_Exfil,DNS]
+categories: [Tools]
+tags: [network,data_exfil]
 ---
 
 ### DNS Overview

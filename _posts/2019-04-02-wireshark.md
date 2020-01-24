@@ -1,8 +1,8 @@
 ---
 title: WireShark
 date: 2019-04-02 10:35:00
-categories: [Network]
-tags: [Wireshark, PCAP]
+categories: [Tools]
+tags: [network,wireshark]
 seo:
   date_modified: 2020-01-24 11:25:39 -0500
 ---

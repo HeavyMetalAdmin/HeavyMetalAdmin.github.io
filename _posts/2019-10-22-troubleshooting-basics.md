@@ -1,8 +1,8 @@
 ---
 title: Troubleshooting Basics
 date: 2019-10-22 00:00:00
-categories: [Troubleshooting,Methodology]
-tags: [Troubleshooting, Methodology]
+categories: [Troubleshooting]
+tags: [methodology]
 ---
 
 ## **Ping**

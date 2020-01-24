@@ -1,8 +1,8 @@
 ---
 title: Web Applications
 date: 2019-11-05 00:00:00
-categories: [Web_App, eJPT, HTTP(s)]
-tags: [eJPT,web_app]
+categories: [Web App]
+tags: [eJPT]
 ---
 
 ## HTTP Protocol Basics
