@@ -1,10 +1,10 @@
 ---
 title: BurpSuite
 date: 2019-12-24 00:00:00
-categories: [Tools,BurpSuite]
+categories: [Tools, BurpSuite]
 tags: [web_app, network]
 seo:
-  date_modified: 2020-01-24 11:42:35 -0500
+  date_modified: 2020-01-24 11:59:23 -0500
 ---
 
 ## Tabs
