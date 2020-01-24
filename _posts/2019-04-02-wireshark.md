@@ -1,8 +1,8 @@
 ---
 title: WireShark
 date: 2019-04-02 10:35:00
-categories: [Tools]
-tags: [network, wireshark]
+categories: [Tools,Wirehsark]
+tags: [network]
 seo:
   date_modified: 2020-01-24 11:42:35 -0500
 ---
