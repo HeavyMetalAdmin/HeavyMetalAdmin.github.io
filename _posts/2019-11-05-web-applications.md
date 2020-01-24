@@ -2,9 +2,9 @@
 title: Web Applications
 date: 2019-11-05 00:00:00
 categories: [Web App, Overview]
-tags: [eJPT,overview]
+tags: [eJPT, overview]
 seo:
-  date_modified: 2020-01-24 11:42:35 -0500
+  date_modified: 2020-01-24 14:24:08 -0500
 ---
 
 ## HTTP Protocol Basics
