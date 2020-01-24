@@ -1,8 +1,8 @@
 ---
 title: Web Applications
 date: 2019-11-05 00:00:00
-categories: [Web App]
-tags: [eJPT]
+categories: [Web App, Overview]
+tags: [eJPT,overview]
 seo:
   date_modified: 2020-01-24 11:42:35 -0500
 ---

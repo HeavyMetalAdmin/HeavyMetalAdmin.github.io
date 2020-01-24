@@ -1,7 +1,7 @@
 ---
 title: Detection Methods
 date: 2019-10-22 22:00:00
-categories: [AV]
+categories: [AV,Detection]
 tags: [av_detection, methodology]
 seo:
   date_modified: 2020-01-24 11:42:35 -0500

@@ -1,7 +1,7 @@
 ---
 title: Linux(bash) Shell Overview
 date: 2019-10-22 10:00:00
-categories: [Linux]
+categories: [Linux,Shell]
 tags: [bash, command-line]
 seo:
   date_modified: 2020-01-24 11:42:35 -0500
