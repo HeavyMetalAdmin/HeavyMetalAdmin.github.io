@@ -15,3 +15,12 @@ seo:
     - Add domain and save
 - To block a sender if logging of the message
   - Spam Detection -> Organizational Block List
+
+- When blocking a domain use the Email Protection -> Spam Detection -> Org
+Block List
+  - This retains a copy in the quarantine folder
+  - No wildcards are needed, just use contains
+- When blocking a sender use Email FW -> Rules -> Blocked
+  - This drops the email all together
+
+
