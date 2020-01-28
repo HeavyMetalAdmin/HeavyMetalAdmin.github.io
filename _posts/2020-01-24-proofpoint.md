@@ -9,7 +9,6 @@ seo:
 ## Proofpoint
 
 ### Blocking Email
-
 - To block a domain or IP with no logging of the message, block the message in the following way:
   - Email Protection -> Email Firewall -> Rules -> Blocked
     - Add domain and save
