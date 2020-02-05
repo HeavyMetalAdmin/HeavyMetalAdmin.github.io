@@ -4,7 +4,7 @@ date: 2019-10-27 00:00:00
 categories: [Tools, PacketWhisper]
 tags: [network, data_exfil]
 seo:
-  date_modified: 2020-02-05 11:56:44 -0500
+  date_modified: 2020-02-05 11:57:23 -0500
 ---
 
 ### DNS Overview

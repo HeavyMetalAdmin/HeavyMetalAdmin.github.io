@@ -4,7 +4,7 @@ date: 2019-11-05 00:00:00
 categories: [Web App, Overview]
 tags: [eJPT, overview]
 seo:
-  date_modified: 2020-02-05 11:56:44 -0500
+  date_modified: 2020-02-05 11:57:23 -0500
 ---
 
 ## HTTP Protocol Basics
