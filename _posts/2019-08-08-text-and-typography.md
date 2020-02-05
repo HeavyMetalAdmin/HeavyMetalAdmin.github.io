@@ -1,8 +1,10 @@
 ---
-title: "Text and Typography"
+title: Text and Typography
 date: 2019-08-08 11:33:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
+seo:
+  date_modified: 2020-02-05 11:35:34 -0500
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
