@@ -1,10 +1,8 @@
 ---
-title: Writing a New Post
+title: "Writing a New Post"
 date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
-seo:
-  date_modified: 2020-02-05 11:38:16 -0500
 ---
 
 ## Naming and Path
