@@ -6,9 +6,9 @@
 
 tabs:
   - { name: "Home", icon: 'fas fa-home' }
-  - { name: "Categories", path: tabs, url: categories, icon: 'fas fa-stream' }
+  #- { name: "Categories", path: tabs, url: categories, icon: 'fas fa-stream' }
   - { name: "Tags", path: tabs, url: tags, icon: 'fas fa-tags' }
-  - { name: "Resources", path: tabs, url: resources, icon: 'fas fa-archive'}
+  - { name: "Resources", path: tabs, url: resources, icon: ''}
   - { name: "Archives", path: tabs, url: archives, icon: 'fas fa-archive'}
   - { name: "About", path: tabs, url: about, icon: 'fas fa-info'}
 
