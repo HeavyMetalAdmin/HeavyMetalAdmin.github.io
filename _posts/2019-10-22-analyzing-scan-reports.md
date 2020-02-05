@@ -4,7 +4,7 @@ date: 2019-10-22 11:00:00
 categories: [Vulnerability Management, Reports]
 tags: [cvss, vulnerability_management, cysa+, terminology]
 seo:
-  date_modified: 2020-01-24 14:24:08 -0500
+  date_modified: 2020-02-05 11:52:10 -0500
 ---
 
 ## Scan Reports

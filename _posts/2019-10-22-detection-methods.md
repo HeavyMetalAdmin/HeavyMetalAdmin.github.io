@@ -4,7 +4,7 @@ date: 2019-10-22 22:00:00
 categories: [AV, Detection]
 tags: [av_detection, methodology]
 seo:
-  date_modified: 2020-01-24 14:24:08 -0500
+  date_modified: 2020-02-05 11:52:10 -0500
 ---
 
 ### Signature-Based Detection
