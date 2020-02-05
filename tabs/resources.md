@@ -9,11 +9,18 @@ title: Resources
 ---
 
 >**Links**
-https://github.com/0x4143/malware-gems/blob/master/README.md
-https://beginners.re/RE4B-EN.pdf
-https://medium.com/@NasreddineBencherchali/malware-analysis-techniques-basic-static-analysis-335a7286a176
-https://www.youtube.com/watch?v=QLnqwAf7Ldo
-https://repnz.github.io/posts/practical-reverse-engineering/query-module-information/
-https://www.youtube.com/watch?v=qCQRKLaz2nQ&feature=youtu.be
-https://www.begin.re/
-https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll
+[https://github.com/0x4143/malware-gems/blob/master/README.md]
+
+[https://beginners.re/RE4B-EN.pdf]
+
+[https://medium.com/@NasreddineBencherchali/malware-analysis-techniques-basic-static-analysis-335a7286a176]
+
+[https://www.youtube.com/watch?v=QLnqwAf7Ldo]
+
+[https://repnz.github.io/posts/practical-reverse-engineering/query-module-information/]
+
+[https://www.youtube.com/watch?v=qCQRKLaz2nQ&feature=youtu.be]
+
+[https://www.begin.re/]
+
+[https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll]
