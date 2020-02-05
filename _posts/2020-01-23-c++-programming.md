@@ -1,10 +1,10 @@
 ---
 title: C++ Programming
 date: 2020-01-23 10:45:00
-categories: [Languages,C++]
+categories: [Languages, C++]
 tags: [overview]
 seo:
-    date_modified: 2020-01-24 11:48:25 -0500
+  date_modified: 2020-02-05 11:59:16 -0500
 ---
 
 # C++ Programming
