@@ -4,7 +4,7 @@ date: 2020-01-27 14:47:00
 categories: [ELK]
 tags: [elastic]
 seo:
-  date_modified: 2020-02-05 11:57:23 -0500
+  date_modified: 2020-02-17 14:30:27 -0500
 ---
 
 # Elastic Cloud Enterprise Fundamentals
